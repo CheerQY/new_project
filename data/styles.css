@@ -65,7 +65,13 @@
   color:#000000;
   text-align:left;
 }
+.button {
+}
 .text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
   color:#000000;
   text-align:left;
 }
@@ -74,6 +80,13 @@
 }
 .radio_button {
   text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.table_cell {
+}
+.menu_item {
 }
 ._流程形状 {
 }
