@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1813_div {
+#u1815_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -29,14 +29,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1813 {
+#u1815 {
   position:absolute;
   left:25px;
   top:29px;
   width:264px;
   height:173px;
 }
-#u1814 {
+#u1816 {
   position:absolute;
   left:2px;
   top:78px;
@@ -44,7 +44,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1815_div {
+#u1817_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -61,14 +61,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1815 {
+#u1817 {
   position:absolute;
   left:25px;
   top:29px;
   width:264px;
   height:44px;
 }
-#u1816 {
+#u1818 {
   position:absolute;
   left:2px;
   top:14px;
@@ -76,45 +76,11 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1817_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:29px;
-  height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'微软雅黑';
-  font-weight:400;
-  font-style:normal;
-}
-#u1817 {
-  position:absolute;
-  left:42px;
-  top:43px;
-  width:29px;
-  height:20px;
-  font-family:'微软雅黑';
-  font-weight:400;
-  font-style:normal;
-}
-#u1818 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:29px;
-  white-space:nowrap;
-}
 #u1819_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:191px;
+  width:29px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -130,8 +96,8 @@
 #u1819 {
   position:absolute;
   left:42px;
-  top:104px;
-  width:191px;
+  top:43px;
+  width:29px;
   height:20px;
   font-family:'微软雅黑';
   font-weight:400;
@@ -141,10 +107,44 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:29px;
+  white-space:nowrap;
+}
+#u1821_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:191px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u1821 {
+  position:absolute;
+  left:42px;
+  top:104px;
+  width:191px;
+  height:20px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u1822 {
+  position:absolute;
+  left:0px;
+  top:0px;
   width:191px;
   word-wrap:break-word;
 }
-#u1821_div {
+#u1823_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -162,7 +162,7 @@
   font-style:normal;
   font-size:28px;
 }
-#u1821 {
+#u1823 {
   position:absolute;
   left:255px;
   top:33px;
@@ -173,7 +173,7 @@
   font-style:normal;
   font-size:28px;
 }
-#u1821_div.mouseOver {
+#u1823_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
@@ -191,16 +191,16 @@
   font-style:normal;
   font-size:28px;
 }
-#u1821.mouseOver {
+#u1823.mouseOver {
 }
-#u1822 {
+#u1824 {
   position:absolute;
   left:0px;
   top:0px;
   width:22px;
   white-space:nowrap;
 }
-#u1823_div {
+#u1825_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -221,7 +221,7 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1823 {
+#u1825 {
   position:absolute;
   left:118px;
   top:153px;
@@ -232,7 +232,7 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1823_div.mouseOver {
+#u1825_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
@@ -253,9 +253,9 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1823.mouseOver {
+#u1825.mouseOver {
 }
-#u1823_div.selected {
+#u1825_div.selected {
   position:absolute;
   left:0px;
   top:0px;
@@ -276,23 +276,23 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1823.selected {
+#u1825.selected {
 }
-#u1824 {
+#u1826 {
   position:absolute;
   left:2px;
   top:4px;
   width:65px;
   word-wrap:break-word;
 }
-#u1825_img {
+#u1827_img {
   position:absolute;
   left:0px;
   top:0px;
   width:69px;
   height:26px;
 }
-#u1825 {
+#u1827 {
   position:absolute;
   left:208px;
   top:153px;
@@ -303,11 +303,11 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u1825_img.mouseOver {
+#u1827_img.mouseOver {
 }
-#u1825.mouseOver {
+#u1827.mouseOver {
 }
-#u1826 {
+#u1828 {
   position:absolute;
   left:2px;
   top:4px;
