@@ -622,24 +622,24 @@
 }
 #u607 {
   position:absolute;
-  left:107px;
+  left:108px;
   top:341px;
-  width:283px;
-  height:25px;
+  width:282px;
+  height:28px;
 }
 #u607_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:283px;
-  height:25px;
+  width:282px;
+  height:28px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
   text-decoration:none;
   color:#000000;
-  text-align:left;
-  border-color:transparent;
-  outline-style:none;
+}
+#u607_input:disabled {
+  color:grayText;
 }
